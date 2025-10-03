@@ -1,0 +1,17 @@
+## COCOTB dependencies
+apt-get install
+- make
+- python3
+- python3-pip
+- libpython3-dev
+
+pip install cocotb==2.0
+
+## GHDL
+apt-get install
+- ghdl
+
+## GTKWave
+apt-get install
+- gtkwave
+

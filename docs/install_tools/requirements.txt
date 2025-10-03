@@ -1,0 +1,2 @@
+# Core dependencies
+cocotb~=2.0
